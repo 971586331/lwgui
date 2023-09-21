@@ -56,3 +56,4 @@ keil/Listings
 *.sy
 .vscode
 MDK-ARM/lwgui
+MDK-ARM/JLinkLog.txt
